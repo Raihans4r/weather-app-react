@@ -1,3 +1,18 @@
+![image](https://user-images.githubusercontent.com/48921536/185421194-cc4ceef7-949b-4cc2-a0d3-b3c9eddf231a.png)
+
+# React Weather 
+
+A React weather application using openweathermap API
+
+## Demo
+
+ [Live Demo](https://react-weather-raihanjs.netlify.app/)
+
+
+## Used Tools
+- OpenWeatherMap API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
